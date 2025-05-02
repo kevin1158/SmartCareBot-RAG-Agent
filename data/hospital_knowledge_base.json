@@ -1,0 +1,72 @@
+[
+  {
+    "entry_id": 1,
+    "category": "Navigation",
+    "question": "Where is the Cardiology department?",
+    "answer": "The Cardiology department is on floor 4 in Building A.",
+    "tags": "navigation"
+  },
+  {
+    "entry_id": 2,
+    "category": "Navigation",
+    "question": "Where is the Neurology department?",
+    "answer": "The Neurology department is on floor 4 in Building B.",
+    "tags": "navigation"
+  },
+  {
+    "entry_id": 3,
+    "category": "Navigation",
+    "question": "Where is the Dermatology department?",
+    "answer": "The Dermatology department is on floor 3 in Building C.",
+    "tags": "navigation"
+  },
+  {
+    "entry_id": 4,
+    "category": "Navigation",
+    "question": "Where is the Orthopedics department?",
+    "answer": "The Orthopedics department is on floor 3 in Building D.",
+    "tags": "navigation"
+  },
+  {
+    "entry_id": 5,
+    "category": "Navigation",
+    "question": "Where is the Pediatrics department?",
+    "answer": "The Pediatrics department is on floor 1 in Building E.",
+    "tags": "navigation"
+  },
+  {
+    "entry_id": 6,
+    "category": "Navigation",
+    "question": "Where is the Oncology department?",
+    "answer": "The Oncology department is on floor 3 in Building A.",
+    "tags": "navigation"
+  },
+  {
+    "entry_id": 7,
+    "category": "Navigation",
+    "question": "Where is the ENT department?",
+    "answer": "The ENT department is on floor 4 in Building B.",
+    "tags": "navigation"
+  },
+  {
+    "entry_id": 8,
+    "category": "Navigation",
+    "question": "Where is the Radiology department?",
+    "answer": "The Radiology department is on floor 2 in Building C.",
+    "tags": "navigation"
+  },
+  {
+    "entry_id": 9,
+    "category": "Navigation",
+    "question": "Where is the Gastroenterology department?",
+    "answer": "The Gastroenterology department is on floor 1 in Building D.",
+    "tags": "navigation"
+  },
+  {
+    "entry_id": 10,
+    "category": "Navigation",
+    "question": "Where is the Psychiatry department?",
+    "answer": "The Psychiatry department is on floor 5 in Building E.",
+    "tags": "navigation"
+  }
+]

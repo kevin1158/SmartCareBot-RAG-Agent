@@ -1,0 +1,46 @@
+[
+  {
+    "name": "symptoms",
+    "seq": 101
+  },
+  {
+    "name": "patients",
+    "seq": 20000
+  },
+  {
+    "name": "departments",
+    "seq": 10
+  },
+  {
+    "name": "doctors",
+    "seq": 100
+  },
+  {
+    "name": "encounters",
+    "seq": 30000
+  },
+  {
+    "name": "triage_recommendations",
+    "seq": 30000
+  },
+  {
+    "name": "appointments",
+    "seq": 25000
+  },
+  {
+    "name": "vitals",
+    "seq": 40000
+  },
+  {
+    "name": "lab_tests",
+    "seq": 40000
+  },
+  {
+    "name": "medications",
+    "seq": 60000
+  },
+  {
+    "name": "hospital_knowledge_base",
+    "seq": 10
+  }
+]

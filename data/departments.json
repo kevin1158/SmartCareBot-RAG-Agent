@@ -1,0 +1,62 @@
+[
+  {
+    "department_id": 1,
+    "name": "Cardiology",
+    "floor_number": 4,
+    "building": "Building A"
+  },
+  {
+    "department_id": 2,
+    "name": "Neurology",
+    "floor_number": 4,
+    "building": "Building B"
+  },
+  {
+    "department_id": 3,
+    "name": "Dermatology",
+    "floor_number": 3,
+    "building": "Building C"
+  },
+  {
+    "department_id": 4,
+    "name": "Orthopedics",
+    "floor_number": 3,
+    "building": "Building D"
+  },
+  {
+    "department_id": 5,
+    "name": "Pediatrics",
+    "floor_number": 1,
+    "building": "Building E"
+  },
+  {
+    "department_id": 6,
+    "name": "Oncology",
+    "floor_number": 3,
+    "building": "Building A"
+  },
+  {
+    "department_id": 7,
+    "name": "ENT",
+    "floor_number": 4,
+    "building": "Building B"
+  },
+  {
+    "department_id": 8,
+    "name": "Radiology",
+    "floor_number": 2,
+    "building": "Building C"
+  },
+  {
+    "department_id": 9,
+    "name": "Gastroenterology",
+    "floor_number": 1,
+    "building": "Building D"
+  },
+  {
+    "department_id": 10,
+    "name": "Psychiatry",
+    "floor_number": 5,
+    "building": "Building E"
+  }
+]

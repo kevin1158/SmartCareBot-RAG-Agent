@@ -1,0 +1,194 @@
+[
+    {
+        "specialization": "General Dentist",
+        "responsibilities": [
+            "Performs routine check-ups, cleanings, exams, and preventive care.",
+            "Handles basic restorative work such as fillings and extractions.",
+            "Conducts oral cancer screenings and provides fluoride treatments."
+        ],
+        "dentists": [
+            {
+                "name": "John Doe",
+                "license_number": "GD123456",
+                "experience": "5 years"
+            },
+            {
+                "name": "Emily Johnson",
+                "license_number": "GD654321",
+                "experience": "4 years"
+            }
+        ]
+    },
+    {
+        "specialization": "Cardiologist",
+        "responsibilities": [
+            "Diagnoses and treats heart and blood vessel conditions.",
+            "Performs cardiac catheterizations and stress tests.",
+            "Advises patients on heart health and prevention."
+        ],
+        "Cardiologist": [
+            {
+                "name": "Jane Smith",
+                "license_number": "CD234567",
+                "experience": "15 years"
+            },
+            {
+                "name": "Lisa Brown",
+                "license_number": "CD765432",
+                "experience": "10 years"
+
+            }
+        ]
+    },
+    {
+        "specialization": "Neurologist",
+        "responsibilities": [
+            "Treats disorders of the nervous system.",
+            "Performs neurological exams and diagnostic tests.",
+            "Manages epilepsy, stroke, and degenerative conditions."
+        ],
+        "Neurologist": [
+            {
+                "name": "Michael Green",
+                "license_number": "PR345678",
+                "experience": "18 years"
+            }
+        ]
+    },
+    {
+        "specialization": "Dermatologist",
+        "responsibilities": [
+            "Diagnoses and treats skin, hair, and nail conditions.",
+            "Performs skin biopsies and minor surgeries.",
+            "Advises on skin care and cosmetic treatments."
+        ],
+        "Dermatologist": [
+            {
+                "name": "Sarah Wilson",
+                "license_number": "PD456789",
+                "experience": "8 years"
+            }
+        ]
+    },
+    {
+        "specialization": "Orthopedic_Surgeon",
+        "responsibilities": [
+            "Performs surgeries to treat musculoskeletal issues.",
+            "Diagnoses bone, joint, and ligament conditions.",
+            "Prescribes physical therapy and rehabilitation."
+        ],
+        "Orthopedic Surgeon": [
+            {
+                "name": "Daniel Miller",
+                "license_number": "ED567890",
+                "experience": "6 years"
+                
+            },
+            {
+                "name": "Susan Davis",
+                "license_number": "ED098765",
+                "experience": "17 years"
+            }
+        ]
+    },
+    {
+        "specialization": "Pediatrician",
+        "responsibilities": [
+            "Provides medical care for infants, children, and adolescents.",
+            "Monitors growth and development.",
+            "Advises parents on child health and prevention."
+        ],
+        "Pediatrician": [
+            {
+                "name": "Robert Martinez",
+                "license_number": "OS678901",
+                "experience": "3.5 years"
+            }
+        ]
+    },
+    {
+        "specialization": "Oncologist",
+        "responsibilities": [
+            "Diagnoses and treats cancer using chemotherapy and other therapies.",
+            "Coordinates with other specialists for cancer care.",
+            "Supports patients through treatment and recovery."
+        ],
+        "Oncologist": [
+            {
+                "name": "Kevin Anderson",
+                "license_number": "OR789012",
+                "experience": "21 years"
+            }
+        ]
+    },
+    {
+        "specialization": "Otolaryngologist",
+        "responsibilities": [
+            "Treats conditions of the ear, nose, and throat.",
+            "Performs head and neck surgeries.",
+            "Manages allergies, sinus issues, and hearing loss."
+        ],
+        "Otolaryngologist": [
+            {
+                "name": "James Hahn",
+                "license_number": "OT000061",
+                "experience": "11 years"
+            },
+            {
+                "name": "Destiny Williams",
+                "license_number": "OT000062",
+                "experience": "14.5 years"
+            }
+        ]
+    },
+    {
+        "specialization": "Radiologist",
+        "responsibilities": [
+            "Interprets medical imaging like X-rays and MRIs.",
+            "Assists with image-guided diagnostic procedures.",
+            "Collaborates with physicians to guide treatment."
+        ],
+        "Radiologist": [
+            {
+                "name": "Kara Shaffer",
+                "license_number": "RA000071",
+                "experience": "2 years"
+            },
+            {
+                "name": "Christopher Holden",
+                "license_number": "RA000072",
+                "experience": "7.5 years"
+            }
+        ]
+    },
+    {
+        "specialization": "Gastroenterologist",
+        "responsibilities": [
+            "Diagnoses and treats digestive system disorders.",
+            "Performs endoscopic procedures.",
+            "Manages chronic GI conditions like Crohn\u2019s disease."
+        ],
+        "Gastroenterologist": [
+            {
+                "name": "Terry Cooper",
+                "license_number": "GA000081",
+                "experience": "12 years"
+            }
+        ]
+    },
+    {
+        "specialization": "Psychiatrist",
+        "responsibilities": [
+            "Diagnoses and treats mental health conditions.",
+            "Prescribes psychiatric medications.",
+            "Provides psychotherapy and mental health support."
+        ],
+        "Psychiatrist": [
+            {
+                "name": "Cassie Andrade",
+                "license_number": "PS000091",
+                "experience": "19 years"
+            }
+        ]
+    }
+]
