@@ -88,4 +88,4 @@ def generate_csv(filename):
 
 
 if __name__ == '__main__':
-    generate_csv(f"{WORKDIR}/data/syntetic_data/availability.csv")
+    generate_csv(f"{WORKDIR}/data/synthetic_data/availability.csv")
